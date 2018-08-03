@@ -2,3 +2,9 @@ baseURL = "http://example.org/"
 languageCode = "ja"
 title = "つねかめ堂"
 theme = "focus"
+
+[params]
+description = "てぬぐい・和布雑貨の製作、販売をしています。"
+keywords = "てぬぐい,和布雑貨,ハンチング,Tシャツ,鯉口"
+author = "つねかめ堂"
+
